@@ -1,0 +1,197 @@
+/* jumbotron */
+.index {
+    background-color: #027D88;
+    background-size: cover;
+    margin-top: -85px;
+    height: 675px;
+}
+
+.navbar-brand, .nav-item {
+    color: #fff !important;
+    letter-spacing: 1px;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    font-family: poppins;
+    font-size: 16px; 
+}
+
+.hero {
+    margin-top: 50px;
+}
+
+.imgHero{
+    width: 425px;
+    height: 460px;
+    margin-top: 20px;
+}
+
+.textHero{
+    font-family: 'Playfair Display', serif;
+    font-size: 90px;
+    margin-top: 60px;
+    color: #fff;
+}
+
+.line {
+
+   margin-top: 28px;
+   width: 605px;
+   height: 5px;
+   background-color: #fff;
+}
+
+.box {
+    width: 360px;
+    height: 180px;
+    background-color: #58D6A7;
+    margin-top: -50px;
+    margin-left: 120px;
+}
+
+.kutip {
+    font-family: 'Playfair Display', serif;
+    padding-top: 28px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.kutip::before,
+.kutip::after {
+    content: open-quote;
+    font-size: 50px;
+    color: #fff;
+    line-height: 0;
+    position: relative;
+    top: 20px;
+}
+
+.kutip::after {
+    content: close-quote;
+}
+
+.hero2 {
+    width: 425px;
+    height: 330px;
+    margin-top: 30px;
+}
+
+.standart {
+    text-align: right;
+    margin-top: 70px;
+    font-family: 'Playfair Display', serif;
+}
+
+.rusak {
+    font-family: 'Playfair Display', serif;
+}
+
+.btn1 {
+    margin-left: 380px;
+    width: 40%;
+    background-color: #027D88;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+}
+
+.btn2, .btn3 {
+    width: 40%;
+    background-color: #027D88;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+}
+
+.btn1:hover, .btn2:hover, .btn3:hover{
+    background-color:#12A6B3 ;
+}
+
+.info {
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: 'Playfair Display', serif;
+    color: #fff;
+}
+
+footer{
+    background-color: #025860;
+    height: 70px;
+}
+
+footer h5 {
+    color:#fff;
+}
+
+.biji {
+    margin-top: 210px;
+    margin-left: 75px;
+}
+
+.darurat {
+    margin-left: 12%;
+}
+
+.baik {
+    text-align: right;
+    margin-top: 33%;
+    font-family: 'Playfair Display', serif;
+}
+
+/* css header */
+.header {
+    background-color: #027D88;
+    margin-top: -85px;
+    height: 350px;
+}
+
+.heroheader {
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+/* css konten1 */
+.lineJudul {
+    width: auto;
+    height: 38px;
+    background-color: #027D88;
+}
+
+.lineJudul h5 {
+    color: #fff;
+}
+
+.judulKonten1 {
+    font-family: poppins;
+    font-size: 45px;
+}
+
+.imgKonten {
+    border-radius: 20px;
+    width: 330px;
+    height: 330px;
+}
+
+.imgContent {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+}
+
+.textContent {
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    margin-top: 40px;
+    color: #fff;   
+    text-align: center;
+}
+
+.opening {
+    font-family: poppins;
+}

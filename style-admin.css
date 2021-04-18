@@ -1,0 +1,22 @@
+/* css resgister dan login */
+.card {
+    margin-top: 130px;
+
+}
+
+.inPut input, .btn-login {
+    width: 285px;
+    border-radius: 25px;
+}
+
+.logout .aLogout, i {
+    text-decoration: none;
+    color:"white";
+}
+
+.page {
+    background-color: #3F65D3;
+    color:white;
+}
+
+/* css admin */
